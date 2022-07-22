@@ -7,7 +7,7 @@ python main.py \
     ddd \
     --exp_id centerfusion \
     --shuffle_train \
-    --train_split train \
+    --train_split mini_train_2 \
     --val_split mini_val \
     --val_intervals 1 \
     --run_dataset_eval \
@@ -32,3 +32,4 @@ python main.py \
     # --resume \
 
 cd ..
+

@@ -22,7 +22,8 @@ from utils.pointcloud import RadarPointCloudWithVelocity as RadarPointCloud
 from nuScenes_lib.utils_radar import map_pointcloud_to_image
 import time
 
-DATA_PATH = '../../data/nuscenes/'
+#DATA_PATH = '../../data/nuscenes/'
+DATA_PATH = '../../data/'
 OUT_PATH = DATA_PATH + 'annotations'
 SPLITS = {
           'mini_val': 'v1.0-mini',
