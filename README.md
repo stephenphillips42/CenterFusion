@@ -1,3 +1,5 @@
+This is a copy of the original repository.
+
 # CenterFusion <!-- omit in toc --> 
  This repository contains the implementation of [CenterFusion: Center-based Radar and Camera Fusion for 3D Object Detection](https://arxiv.org/abs/2011.04841).
 
